@@ -17,7 +17,7 @@ print("int_var :", (int_var,type(int_var)),"float_var :",
 # print("int_var :", (int_var,type(int_var)),"float_var :",
 #       (float_var,type(float_var)),"string_var :", (string_var,type(string_var))) #o/p
 
-#3.Assigning a single value to several variables simultaneously with “=” operators.(a=b=c=10) and print the values of a,b and c..
+#3Assigning a single value to several variables simultaneously with “=” operators.(a=b=c=10) and print the values of a,b and c..
 
 # a=b=c=10
 # print(a,b,c)
